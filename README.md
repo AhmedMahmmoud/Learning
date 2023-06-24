@@ -1,5 +1,5 @@
 # Learning
-Learn GitHub from Osama Al-Zero and  Gharib
+Learn GitHub from Ghareeb
 
 ## Notes for learning 
 . Ghareeb Y.Channel (introduction) git and github ......
